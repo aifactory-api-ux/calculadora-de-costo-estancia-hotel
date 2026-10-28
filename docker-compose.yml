@@ -1,0 +1,6 @@
+services:
+  booking:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hotel-booking:latest

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.next/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Estado de la herramienta de orquestación
+.progress_log
+.plan_checkpoint.json
